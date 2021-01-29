@@ -919,12 +919,18 @@
 		<dict>
 			<key>Automatic</key>
 			<true/>
+			<key>CustomMemory</key>
+			<false/>
 			<key>Generic</key>
 			<dict>
 				<key>AdviseWindows</key>
 				<false/>
+				<key>MaxBIOSVersion</key>
+				<false/>
 				<key>MLB</key>
 				<string>C026311044NGPF7A8</string>
+				<key>ProcessorType</key>
+				<integer>0</integer>
 				<key>ROM</key>
 				<data>HBsNYNdg</data>
 				<key>SpoofVendor</key>
