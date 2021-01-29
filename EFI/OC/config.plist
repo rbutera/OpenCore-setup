@@ -262,6 +262,8 @@
 			<key>Add</key>
 			<array>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -278,6 +280,8 @@
 					<string>Lilu.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -294,6 +298,8 @@
 					<string>VirtualSMC.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -310,6 +316,8 @@
 					<string>AppleALC.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -326,6 +334,8 @@
 					<string>AtherosE2200Ethernet.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -342,6 +352,8 @@
 					<string>NVMeFix.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -358,6 +370,8 @@
 					<string>SMCProcessor.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -374,6 +388,8 @@
 					<string>SMCSuperIO.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -390,6 +406,8 @@
 					<string>WhateverGreen.kext</string>
 				</dict>
 				<dict>
+					<key>Arch</key>
+					<string>x86_64</string>
 					<key>Comment</key>
 					<string></string>
 					<key>MaxKernel</key>
@@ -409,6 +427,8 @@
 			<key>Block</key>
 			<array>
 				<dict>
+					<key>Arch</key>
+					<string>Any</string>
 					<key>Comment</key>
 					<string></string>
 					<key>Enabled</key>
