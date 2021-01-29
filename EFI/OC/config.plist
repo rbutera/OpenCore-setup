@@ -644,6 +644,8 @@
 				<key>LegacyCommpage</key>
 				<false/>
 				<key>ForceSecureBootScheme</key>
+				<key>SetApfsTrimTimeout</key>
+				<integer>-1</integer>
 				<false/>
 			</dict>
 			<key>Force</key>
