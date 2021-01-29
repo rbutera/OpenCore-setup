@@ -789,6 +789,12 @@
 				<string>Signed</string>
 				<key>EnablePassword</key>
 				<false/>
+				<key>PasswordHash</key>
+				<data></data>
+				<key>PasswordSalt</key>
+				<data></data>
+				<key>SecureBootModel</key>
+				<string>Default</string>
 			</dict>
 			<key>Tools</key>
 			<array>
