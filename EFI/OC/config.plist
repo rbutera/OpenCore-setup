@@ -959,6 +959,8 @@
 			<dict>
 				<key>EnableJumpstart</key>
 				<true/>
+				<key>GlobalConnect</key>
+				<false/>
 				<key>HideVerbose</key>
 				<true/>
 				<key>JumpstartHotPlug</key>
@@ -981,8 +983,10 @@
 				<key>MinimumVolume</key>
 				<integer>20</integer>
 				<key>PlayChime</key>
-				<false/>
+				<string>Auto</string>
 				<key>VolumeAmplifier</key>
+				<integer>0</integer>
+				<key>SetupDelay</key>
 				<integer>0</integer>
 			</dict>
 			<key>ConnectDrivers</key>
@@ -1096,6 +1100,8 @@
 				<integer>0</integer>
 				<key>UnblockFsConnect</key>
 				<false/>
+				<key>DisableSecurityPolicy</key>
+				<false/>
 			</dict>
 			<key>ReservedMemory</key>
 			<array>
@@ -1108,6 +1114,8 @@
 					<false/>
 					<key>Size</key>
 					<integer>268435456</integer>
+					<key>Type</key>
+					<string>Reserved</string>
 				</dict>
 			</array>
 		</dict>
